@@ -1,4 +1,11 @@
 # Degree
+
+- degree: None
+  uni: None 
+  year: August 27, 2021
+  # awards:
+  # summary: No degree was found
+
 - degree: Full Stack Webdeveloper Nanodegree
   uni: Udacity
   year: June, 2014 &mdash; January, 2015
